@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class PrinterPower {
+class Printer {
 
     private static int amountOfPapers;
     private static int inksInsert;
